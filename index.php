@@ -51,22 +51,22 @@
         I'm a
         <span style="--i: 4" data-text="Frontend Developer">Frontend Developer</span>
         <span style="--i: 3" data-text="Backend Developer">Backend Developer</span>
-        <span style="--i: 2" data-text="Fullstack Developer">Fullstack Developer</span>
-        <span style="--i: 1" data-text="UI/UX Designer">UI/UX Designer</span>
+        <span style="--i: 2" data-text="UI/UX Designer">UI/UX Designer</span>
+        <span style="--i: 1" data-text="Content Creator">Content Creator</span>
       </h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
-        natus minus dignissimos ipsam veritatis sunt excepturi ipsum illum in
-        sit reiciendis illo quisquam, explicabo, odit quod iure placeat,
-        quidem nulla!
+        Let me introduce myself, my name is Moch Sulaiman Asadulloh, usually
+        called Sulaiman, I am a Web Developer and Content Creator.
       </p>
       <div class="btn-sci">
-        <a href="img/CV Canva Sulaiman Asadullah.pdf" class="btn">Download CV</a>
+        <a href="img/CV.pdf" target="_blank" class="btn">Download CV</a>
         <div class="sci">
-          <a href="https://github.com/sulaimanasad"><i class="bx bxl-github"></i></a>
-          <a href="https://www.linkedin.com/in/sulaimanasadullah"><i class="bx bxl-linkedin"></i></a>
-          <a href="https://www.instagram.com/sulcahsul"><i class="bx bxl-instagram"></i></a>
-          <a href="https://www.tiktok.com/@sulcahsul44"><i class="bx bxl-tiktok"></i></a>
+          <a href="https://github.com/sulaimanasad" target="_blank"><i class="bx bxl-github"></i></a>
+          <a
+            href="https://www.linkedin.com/in/sulaimanasadullah"
+            target="_blank"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://www.instagram.com/sulcahsul" target="_blank"><i class="bx bxl-instagram"></i></a>
+          <a href="https://www.tiktok.com/@sulcahsul44" target="_blank"><i class="bx bxl-tiktok"></i></a>
         </div>
       </div>
     </div>
@@ -92,8 +92,8 @@
         </div>
         <h3>Web Development</h3>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero
-          ducimus impedit sunt aliquid nulla repellat dignissimos animi.
+          I am a web developer who has expertise in designing and developing
+          modern and interactive websites.
         </p>
       </div>
 
@@ -104,32 +104,8 @@
         </div>
         <h3>UI/UX Design</h3>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero
-          ducimus impedit sunt aliquid nulla repellat dignissimos animi.
-        </p>
-      </div>
-
-      <div class="services-box">
-        <div class="icon">
-          <i class="bx bx-palette"></i>
-          <a href="#"><i class="bx bx-arrow-back"></i></a>
-        </div>
-        <h3>Grapic Design</h3>
-        <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero
-          ducimus impedit sunt aliquid nulla repellat dignissimos animi.
-        </p>
-      </div>
-
-      <div class="services-box">
-        <div class="icon">
-          <i class="bx bx-trending-up"></i>
-          <a href="#"><i class="bx bx-arrow-back"></i></a>
-        </div>
-        <h3>SEO</h3>
-        <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero
-          ducimus impedit sunt aliquid nulla repellat dignissimos animi.
+          I am a UI/UX Designer who has the ability to design attractive and
+          easy-to-use user interfaces.
         </p>
       </div>
 
@@ -140,20 +116,8 @@
         </div>
         <h3>Video Editor</h3>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero
-          ducimus impedit sunt aliquid nulla repellat dignissimos animi.
-        </p>
-      </div>
-
-      <div class="services-box">
-        <div class="icon">
-          <i class="bx bx-camera"></i>
-          <a href="#"><i class="bx bx-arrow-back"></i></a>
-        </div>
-        <h3>Photograpy</h3>
-        <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero
-          ducimus impedit sunt aliquid nulla repellat dignissimos animi.
+          I am a video editor who has the ability to edit videos for various
+          platforms, such as YouTube, Instagram, and Facebook.
         </p>
       </div>
     </div>
@@ -166,8 +130,7 @@
       <div class="resume-box">
         <h2>Why Hire Me?</h2>
         <p class="desc">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-          Praesentium quasi accusamus porro.
+          I will share my experience, my education, my skills, and about me.
         </p>
         <button class="resume-btn active">Experience</button>
         <button class="resume-btn">Education</button>
@@ -178,140 +141,118 @@
       <div class="resume-box">
         <div class="resume-detail experience active">
           <h2 class="heading">My <span>Experience</span></h2>
-          <!-- <p class="desc">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis
-              distinctio et praesentium aliquam incidunt laudantium tempora
-              minus.
-            </p> -->
           <div class="resume-list">
             <div class="resume-item">
-              <p class="year">2023 - Present</p>
+              <p class="year">Juli 2023 - Des 2023</p>
               <h3>Frontend Developer</h3>
-              <p class="company">Abc Corp.</p>
+              <p class="company">Rumah Gemilang Indonesia</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Similique, harum.
+                I created a website-based digital wedding invitation project using Wordpress.
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2022 - 2023</p>
-              <h3>Backend Developer</h3>
-              <p class="company">YouTube</p>
+              <p class="year">Des 2023 - Jan 2024</p>
+              <h3>Frontend Developer</h3>
+              <p class="company">Bina Edukasi Indonesia</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Similique, harum.
+                When I was an intern at Bina Edukasi Indonesia, I created a marketplace display using Wordpress.
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2021 - 2022</p>
-              <h3>Full Stack Developer</h3>
-              <p class="company">Google</p>
+              <p class="year">Jan 2024 - Juli 2024</p>
+              <h3>UI/UX Design</h3>
+              <p class="company">BMT Muda</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Similique, harum.
+                I learned UI/UX using Figma during my on-the-job training at BMT Muda.
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2020 - 2021</p>
-              <h3>Fotographer</h3>
-              <p class="company">Xyz Inc.</p>
+              <p class="year">2024 - 2025</p>
+              <h3>Head of Dormitory</h3>
+              <p class="company">Perwakilan Al Azhar Jawa Timur</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Similique, harum.
+                I am responsible for managing and maintaining computer hardware so that it can be used optimally.
+              </p>
+            </div>
+
+            <!-- <div class="resume-item">
+              <p class="year"> - </p>
+              <h3> - </h3>
+              <p class="company"></p>
+              <p>
+                -
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2019 - 2020</p>
-              <h3>UI/UX</h3>
-              <p class="company">Abc Inc.</p>
+              <p class="year"> - </p>
+              <h3> - </h3>
+              <p class="company"></p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Similique, harum.
+                -
               </p>
-            </div>
-
-            <div class="resume-item">
-              <p class="year">2018 - 2019</p>
-              <h3>Junior Developer</h3>
-              <p class="company">RGI.</p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Similique, harum.
-              </p>
-            </div>
+            </div> -->
           </div>
         </div>
 
         <div class="resume-detail education">
           <h2 class="heading">My <span>Education</span></h2>
-          <!-- <p class="desc">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis
-              distinctio et praesentium aliquam incidunt laudantium tempora
-              minus.
-            </p> -->
-
           <div class="resume-list">
             <div class="resume-item">
-              <p class="year">2024</p>
-              <h3>Programing Course</h3>
-              <p class="company">Online Course</p>
+              <p class="year">2025 - Present</p>
+              <h3>Informatics Engineering</h3>
+              <p class="company">Asia Cyber University</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos,
-                sapiente?
+                I am currently an active student at Asia Cyber University majoring in Informatics Engineering.
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2022 - 2023</p>
-              <h3>Web Development Bootcamp</h3>
-              <p class="company">Online Course Platform</p>
+              <p class="year">Juli 2023 - Des 2023</p>
+              <h3>Software Engineering</h3>
+              <p class="company">Rumah Gemilang Indonesia</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos,
-                sapiente?
+                I graduated from Rumah Gemilang Indonesia, Surabaya Campus,
+                majoring in Software Engineering.
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2020</p>
-              <h3>Certified Web Development</h3>
-              <p class="company">Online Course</p>
+              <p class="year">2023 - 2023</p>
+              <h3>Intro to Software Engineering</h3>
+              <p class="company">RevoU</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos,
-                sapiente?
+                My first introduction to Software Engineering was learning with HTML, CSS, and Github.
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2017 - 2018</p>
-              <h3>Doctor of Engineering</h3>
-              <p class="company">Codehal University</p>
+              <p class="year">2023 - 2024</p>
+              <h3>Certified Developer</h3>
+              <p class="company">Alibaba Cloud</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos,
-                sapiente?
+                I participated in the MEVN CampusCoder Full Stack scholarship program from codepolitan.
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2015 - 2017</p>
-              <h3>Master of Computer University</h3>
+              <p class="year">2023 - 2023</p>
+              <h3>Fullstack Web Developer</h3>
               <p class="company">Codepolitan</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos,
-                sapiente?
+                I learned early to become a fullstack web developer.
               </p>
             </div>
 
             <div class="resume-item">
-              <p class="year">2012 - 2015</p>
-              <h3>Bachelor of Data Science</h3>
+              <p class="year">2023 - 2023</p>
+              <h3>Learn the Basics of Web Programming</h3>
               <p class="company">Dicoding</p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos,
-                sapiente?
+                I learned the basics of web programming at Dicoding.
               </p>
             </div>
           </div>
@@ -320,9 +261,7 @@
         <div class="resume-detail skills">
           <h2 class="heading">My <span>Skills</span></h2>
           <p class="desc">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis
-            distinctio et praesentium aliquam incidunt laudantium tempora
-            minus.
+            These are some of the programming languages that I have mastered in website development.
           </p>
 
           <div class="resume-list">
@@ -339,24 +278,24 @@
               <span>PHP</span>
             </div>
             <div class="resume-item">
-              <i class="bx bxl-tailwind-css"></i>
-              <span>Tailwind CSS</span>
+              <i class="bx bxl-javascript"></i>
+              <span>JavaScript</span>
             </div>
             <div class="resume-item">
               <i class="bx bxl-bootstrap"></i>
               <span>Bootstrap</span>
             </div>
             <div class="resume-item">
-              <i class="bx bxl-javascript"></i>
-              <span>Javascrip</span>
-            </div>
-            <div class="resume-item">
-              <i class="bx bxl-jquery"></i>
-              <span>Jquery</span>
-            </div>
-            <div class="resume-item">
               <i class="bx bxl-react"></i>
               <span>React.js</span>
+            </div>
+            <div class="resume-item">
+              <i class="bx bxl-wordpress"></i>
+              <span>Wordpress</span>
+            </div>
+            <div class="resume-item">
+              <i class="bx bxl-figma"></i>
+              <span>Figma</span>
             </div>
           </div>
         </div>
@@ -364,9 +303,7 @@
         <div class="resume-detail about">
           <h2 class="heading">About <span>Me</span></h2>
           <p class="desc">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis
-            distinctio et praesentium aliquam incidunt laudantium tempora
-            minus.
+            Let me introduce myself, my name is Moch Sulaiman Asadulloh, usually called Sulaiman.
           </p>
 
           <div class="resume-list">
@@ -374,28 +311,13 @@
               <p>Name :<span>Moch Sulaiman Asadulloh</span></p>
             </div>
             <div class="resume-item">
-              <p>Gender :<span>Male</span></p>
-            </div>
-            <div class="resume-item">
-              <p>Age :<span>21 Years Old</span></p>
-            </div>
-            <div class="resume-item">
-              <p>Status :<span>Single</span></p>
-            </div>
-            <div class="resume-item">
               <p>City :<span>Pasuruan</span></p>
             </div>
             <div class="resume-item">
-              <p>Nationality :<span>Indonesian</span></p>
-            </div>
-            <div class="resume-item">
-              <p>Experience :<span>2+ Years</span></p>
-            </div>
-            <div class="resume-item">
-              <p>Full Time :<span>Available</span></p>
-            </div>
-            <div class="resume-item">
               <p>Freelance :<span>Available</span></p>
+            </div>
+            <div class="resume-item">
+              <p>Nationality :<span>Indonesian</span></p>
             </div>
             <div class="resume-item">
               <p>Phone :<span>(+62) 859 8453 7117</span></p>
@@ -422,31 +344,32 @@
           <p class="numb">01</p>
           <h3>Frontend Developer</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Molestiae, quae?
+            I created the Linktree website to make things easier for people
+            know my social media.
           </p>
           <div class="tech">
-            <p>HTML5, CSS3, Javascript</p>
+            <p>HTML5, CSS3</p>
           </div>
           <div class="live-github">
-            <a href="#"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
-            <a href="#"><i class="bx bxl-github"></i><span>Github Repository</span></a>
+            <a href="https://sulcahsul.infy.uk/?i=1" target="_blank"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
+            <a
+              href="https://github.com/sulaimanasad/Sul-Linktree"
+              target="_blank"><i class="bx bxl-github"></i><span>Github Repository</span></a>
           </div>
         </div>
 
         <div class="portfolio-detail">
           <p class="numb">02</p>
-          <h3>Full Stack Project</h3>
+          <h3>Frontend Project</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Molestiae, quae?
+            I created a website based digital wedding invitation to make it easier for someone to invite wedding guests.
           </p>
           <div class="tech">
-            <p>MongoDB, Express.js, React.js, Node.js</p>
+            <p>HTML5, CSS3, Bootstrap</p>
           </div>
           <div class="live-github">
-            <a href="#"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
-            <a href="#"><i class="bx bxl-github"></i><span>Github Repository</span></a>
+            <a href="https://sulwedding.infy.uk/#home" target="_blank"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
+            <a href="https://github.com/sulaimanasad/UndanganPernikahan" target="_blank"><i class="bx bxl-github"></i><span>Github Repository</span></a>
           </div>
         </div>
 
@@ -454,88 +377,50 @@
           <p class="numb">03</p>
           <h3>Backend Project</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Molestiae, quae?
+            This is a stock application project, to monitor the entry and exit of items and edit items.
           </p>
           <div class="tech">
-            <p>PHP, MongoDB, React.js</p>
+            <p>PHP, MySQL, Jquery, Bootstrap</p>
           </div>
           <div class="live-github">
-            <a href="#"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
-            <a href="#"><i class="bx bxl-github"></i><span>Github Repository</span></a>
+            <a href="#" target="_blank"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
+            <a href="https://github.com/sulaimanasad/thz" target="_blank"><i class="bx bxl-github"></i><span>Github Repository</span></a>
           </div>
         </div>
 
         <div class="portfolio-detail">
           <p class="numb">04</p>
-          <h3>Full Stack Project</h3>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Molestiae, quae?
-          </p>
-          <div class="tech">
-            <p>MongoDB, Express.js, AngularJS, Node.js</p>
-          </div>
-          <div class="live-github">
-            <a href="#"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
-            <a href="#"><i class="bx bxl-github"></i><span>Github Repository</span></a>
-          </div>
-        </div>
-
-        <div class="portfolio-detail">
-          <p class="numb">05</p>
           <h3>Frontend Project</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Molestiae, quae?
+            This is a point of sale application project to make it easier for someone to start their business.
           </p>
           <div class="tech">
-            <p>HTML5, CSS3, Javascript, Tailwind CSS</p>
+            <p>HTML, CSS, JavaScript, Bootstrap</p>
           </div>
           <div class="live-github">
-            <a href="#"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
-            <a href="#"><i class="bx bxl-github"></i><span>Github Repository</span></a>
+            <a href="#" target="_blank"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
+            <a href="https://github.com/sulaimanasad/startbootstrap" target="_blank"><i class="bx bxl-github"></i><span>Github Repository</span></a>
           </div>
         </div>
 
-        <div class="portfolio-detail">
-          <p class="numb">06</p>
-          <h3>Full Stack Web Project</h3>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Molestiae, quae?
-          </p>
-          <div class="tech">
-            <p>Express.js, MongoDB, Vue.js, Node.js</p>
-          </div>
-          <div class="live-github">
-            <a href="#"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
-            <a href="#"><i class="bx bxl-github"></i><span>Github Repository</span></a>
-          </div>
-        </div>
       </div>
 
       <div class="portfolio-box">
         <div class="portfolio-carousel">
           <div class="img-slide">
             <div class="img-item">
-              <img src="img/portfolio1.jpg" />
+              <img src="img/Portfolio1.png" />
             </div>
             <div class="img-item">
-              <img src="img/portfolio2.jpg" />
+              <img src="img/Portfolio2.png" />
             </div>
             <div class="img-item">
-              <img src="img/portfolio3.jpg" />
+              <img src="img/Portfolio3.png" />
             </div>
             <div class="img-item">
-              <img src="img/portfolio4.jpg" />
+              <img src="img/Portfolio4.png" />
             </div>
-            <div class="img-item">
-              <img src="img/portfolio5.jpg" />
-            </div>
-            <div class="img-item">
-              <img src="img/portfolio6.jpg" />
-            </div>
+
           </div>
         </div>
 
@@ -558,9 +443,9 @@
       <div class="contact-box">
         <h2>Let's Work Togheter</h2>
         <p class="desc">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia,
-          debitis harum! Beatae repellat aliquid voluptates accusamus iste
-          quaerat aliquam minima.
+          Please contact the number below,
+          or send a message via email if you want to communicate with me,
+          or you can meet me directly at the address I have written below.
         </p>
 
         <div class="contact-detail">
@@ -586,24 +471,6 @@
             <p>Sejo, Kejapanan, Pasuruan, Jawa Timur, Indonesia</p>
           </div>
         </div>
-      </div>
-
-      <div class="contact-box">
-        <form action="">
-          <h2 class="heading">Contact <span>Me!</span></h2>
-          <div class="field-box">
-            <input type="text" placeholder="Full Name" required />
-            <input type="email" placeholder="Email Address" required />
-            <input type="text" placeholder="Phone Number" required />
-            <input type="text" placeholder="Email Subject" required />
-            <textarea
-              name=""
-              id=""
-              placeholder="Your Message"
-              required></textarea>
-          </div>
-          <button type="submit" class="btn">Send Message</button>
-        </form>
       </div>
     </div>
   </section>
